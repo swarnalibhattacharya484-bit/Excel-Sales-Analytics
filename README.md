@@ -4,8 +4,8 @@ Project objective:
 
 1. Create [ customer performance report](https://github.com/swarnalibhattacharya484-bit/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
-2. Conduct  [comprehensive comparison between market performance and sales targets](https://github.com/swarnalibhattacharya484-bit/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
-
+2. Conduct  Conduct a comprehensive comparison between market performance and sales targets
+   
 Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
 Importance of analyzing sales data: Identify sales patterns and track key performance indicators (KPIs).
